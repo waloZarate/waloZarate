@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="https://image.freepik.com/vector-gratis/cerebro-circuito-digital-programador-laptop-aprendizaje-automatico-inteligencia-artificial-cerebro-digital-concepto-proceso-pensamiento-artificial-vector-ilustracion-aislada_335657-2246.jpg" height="175px"/></a>
+<a href="#"><img width="60%" height="auto" src="https://image.freepik.com/vector-gratis/cerebro-circuito-digital-programador-laptop-aprendizaje-automatico-inteligencia-artificial-cerebro-digital-concepto-proceso-pensamiento-artificial-vector-ilustracion-aislada_335657-2246.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oswaldo</h1>
 <h3 align="center">Soy un apasionado de la Ciencia de Datos | Machine Learning | Deep Learning |. </h3>
